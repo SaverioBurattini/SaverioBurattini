@@ -8,7 +8,7 @@
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=🌱+Learning+now%3A" alt="Typing SVG">
     <br>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG">
 </div>
 
 <br>
@@ -35,8 +35,7 @@
 
 <div>
     <h2>
-        📫 Get in touch
-        (<a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>)
+        📫 Get in touch · <a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
     </h2>
 </div>
 
