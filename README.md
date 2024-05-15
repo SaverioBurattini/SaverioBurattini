@@ -1,6 +1,4 @@
-<h1>Hi there, I'm Saverio 👋🏻</h1>
-
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Saverio+Burattini"></div>
+<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio+👋🏻"></div>
 
 <p align="center">
     <h2 align="center">Languages and Tools</h2>
