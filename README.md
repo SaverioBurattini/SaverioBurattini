@@ -39,4 +39,4 @@
     </h2>
 </div>
 
-<a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saverio-burattini"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saverio-burattini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
