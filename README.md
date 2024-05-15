@@ -3,9 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio!">
     <br>
     <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Learning+now%3A" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=🌱+Learning+now%3A" alt="Typing SVG">
     <br>
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
