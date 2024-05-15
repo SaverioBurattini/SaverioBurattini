@@ -1,4 +1,12 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio+👋🏻"></div>
+<div align="center">
+    <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50px" height="auto">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio!">
+    <br>
+    <br>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Learning+now%3A" alt="Typing SVG">
+    <br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG">
+</div>
 
 <p align="center">
     <h2 align="center">Languages and Tools</h2>
@@ -17,20 +25,11 @@
   <img src="https://skillicons.dev/icons?i=git,npm,figma&perline=3">
 </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java plus Spring Framework
 
+<div>
+    <h3>📫 Get in touch</h3><a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
+</div>
 
-<h3>📫 Get in touch</h3>
-<a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
+<br>
 
-<p align="center">
-  <div align="center">
-  <a href="mailto:saverioburattini.dev@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/saverio-burattini">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  </div>
-</p>
+<a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a><a href="https://www.linkedin.com/in/saverio-burattini"><img src="https://skillicons.dev/icons?i=linkedin"></a>
