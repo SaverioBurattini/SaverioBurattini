@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-    <img src="https://camo.githubusercontent.com/0c732027af8a28d138e3698181f7be7c9b97d443b4beb9c7ce8ec4cffc6b4767/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="50px" height="auto">
+    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50px" height="auto">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio!">
     <br>
     <br>
@@ -35,7 +35,7 @@
 
 <div>
     <h2>
-        📫 Get in touch · <a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
+        📫 Get in touch · <a href="mailto:saverioburattini.dev@gmail.com">saverio.burattini.dev@gmail.com</a>
     </h2>
 </div>
 
