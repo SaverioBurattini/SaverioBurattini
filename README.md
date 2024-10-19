@@ -18,7 +18,7 @@
 
 <div align="center">
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven&perline=4">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,python&perline=5">
 </div>
 <div align="center">
   <h3>Frontend</h3>
