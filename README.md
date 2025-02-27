@@ -15,9 +15,9 @@
 </div>
 
 <div>
-    <h3>About Me</h3>
+    <h3>About me</h3>
     <p>
-        I am currently studying at Università G. d'Annunzio in Pescara (Italy) pursuing a BSc in Economics and Computer Science.
+        I am currently studying at Università G. d'Annunzio in Pescara (Italy), pursuing a BSc in Economics and Computer Science.
         <br>
         As I complete my BSc, I am broadening my knowledge beyond my technical background in web development, exploring various fields, such as development with the .NET framework and the leveraging of emerging technologies driving innovation in Computer Science.
     </p>
@@ -26,7 +26,6 @@
 <br>
 
 <h2>Languages and Tools</h2>
-
 <div>
   <h3>Backend</h3>
   <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,python&perline=5">
@@ -37,18 +36,10 @@
 </div>
 <div>
   <h3>Miscellaneous</h3>
-  <img src="https://skillicons.dev/icons?i=git,npm,figma&perline=3">
+  <img src="https://skillicons.dev/icons?i=git,figma,npm&perline=3">
 </div>
 
 <br>
-<br>
-<br>
-
-<div>
-    > [!NOTE]
-    > <a href="https://drive.google.com/drive/" rel="nofollow">Read my resume</a>
-    > <a href="https://drive.google.com/drive/" download>Download my resume</a>
-</div>
 
 <div>
     <h2>
@@ -56,5 +47,11 @@
     </h2>
 </div>
 <a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saverio-burattini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+
+> [!NOTE]
+> <a href="https://drive.google.com/drive/" rel="nofollow">Read my resume</a>
+> <br>
+> <a href="https://drive.google.com/drive/" download>Download my resume</a>
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F94D4&height=120&section=footer" alt="footer"/>
