@@ -4,14 +4,8 @@
 <div align="center">
     <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50px" height="auto">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio!">
-    <br>
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=🌱+Learning+now%3A" alt="Typing SVG">
-    <br>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Java;Spring+Framework" alt="Typing SVG">
 </div>
 
-<br>
 <br>
 
 <h2 align="center">Languages and Tools</h2>
@@ -32,6 +26,11 @@
 <br>
 <br>
 <br>
+
+<div>
+    **Note**
+    <p dir="auto"><a href="https://drive.google.com/drive/" rel="nofollow">My resume</a></p>
+</div>
 
 <div>
     <h2>
