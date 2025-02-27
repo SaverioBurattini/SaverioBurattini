@@ -46,7 +46,8 @@
 
 <div>
     > [!NOTE]
-    > <p dir="auto"><a href="https://drive.google.com/drive/" rel="nofollow">Read my resume</a></p>
+    > <a href="https://drive.google.com/drive/" rel="nofollow">Read my resume</a>
+    > <a href="https://drive.google.com/drive/" download>Download my resume</a>
 </div>
 
 <div>
