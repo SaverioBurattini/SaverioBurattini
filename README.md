@@ -1,9 +1,8 @@
 <!--
     Hello, I'm Saverio!
-    Do you like my README? Thanks for stopping by, explore as long as you want!
-    I hope it sparks some inspiration!
+    Do you like my README? Thanks for stopping by!
     
-    If you're up for it, let's connect on LinkedIn — @saverio-burattini 😊
+    If you're up for it, let's connect on LinkedIn: @saverio-burattini
 -->
 
 
@@ -18,8 +17,6 @@
     <h3>About me</h3>
     <p>
         I am currently studying at Università G. d'Annunzio in Pescara (Italy), pursuing a BSc in Economics and Computer Science.
-        <br>
-        As I complete my BSc, I am broadening my knowledge beyond my technical background in web development, exploring various fields, such as development with the .NET framework and the leveraging of emerging technologies driving innovation in Computer Science.
     </p>
 </div>
 
@@ -43,7 +40,7 @@
 
 <div>
     <h2>
-        📫 Let's connect! · <a href="mailto:saverioburattini.dev@gmail.com">saverio.burattini.dev@gmail.com</a>
+        📫 Let's connect! · <a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
     </h2>
 </div>
 <a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saverio-burattini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
