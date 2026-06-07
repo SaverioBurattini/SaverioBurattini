@@ -32,7 +32,7 @@
 
 <div>
     <h2>
-        📫 Contact: · <a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
+        📫 Contact: <a href="mailto:saverioburattini.dev@gmail.com">saverioburattini.dev@gmail.com</a>
     </h2>
 </div>
 <a href="mailto:saverioburattini.dev@gmail.com"><img src="https://skillicons.dev/icons?i=gmail"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/saverio-burattini" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
