@@ -5,14 +5,6 @@
     If you're up for it, let's connect on LinkedIn: @saverio-burattini
 -->
 
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3F94D4&height=120&section=header" alt="header"/> 
-
-<div>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=F7F7F7&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Hi+there,+I'm+Saverio!">
-    <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="50px" height="auto">
-</div>
-
 <div>
     <h3>About me</h3>
     <p>
@@ -25,7 +17,7 @@
 <h2>Languages and Tools</h2>
 <div>
   <h3>Backend</h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,python&perline=5">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,maven,python,php&perline=6">
 </div>
 <div>
   <h3>Frontend</h3>
